@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="app"/>
+	<buildpathentry kind="src" path="vendor/lib3dduo/casualCrossing/metabot"/>
+	<buildpathentry kind="src" path="vendor/lib3dduo/database"/>
+	<buildpathentry kind="src" path="vendor/lib3dduo/utils"/>
+	<buildpathentry kind="src" path="vendor/Zend/Loader"/>
+	<buildpathentry kind="src" path="web"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
